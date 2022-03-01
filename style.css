@@ -1,0 +1,27 @@
+body {
+  background-color: #f3cba5;
+  font-family: "Noto Sans", sans-serif;
+}
+
+h1,
+p {
+  text-align: center;
+  display: block;
+}
+
+img {
+  max-width: 60%;
+  border-radius: 10px;
+  display: block;
+  margin: 30px auto;
+}
+
+footer {
+  text-align: center;
+  display: block;
+}
+
+footer a {
+  margin: 0 10px;
+  color: brown;
+}
